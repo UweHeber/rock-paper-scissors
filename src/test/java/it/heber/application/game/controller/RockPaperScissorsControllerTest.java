@@ -21,7 +21,6 @@
  */
 package it.heber.application.game.controller;
 
-import it.heber.application.game.controller.RockPaperScissorsController;
 import it.heber.application.game.model.Move;
 import it.heber.application.game.model.RockPaperScissorsReport;
 import it.heber.application.game.model.User;
