@@ -21,7 +21,6 @@
  */
 package it.heber.application.game.model;
 
-import it.heber.application.game.model.Move;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 import org.junit.Before;

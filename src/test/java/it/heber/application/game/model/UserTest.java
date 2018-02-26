@@ -21,8 +21,6 @@
  */
 package it.heber.application.game.model;
 
-import it.heber.application.game.model.User;
-import it.heber.application.game.model.Move;
 import java.util.ArrayList;
 import java.util.List;
 import static org.junit.Assert.assertEquals;
